@@ -9,7 +9,7 @@
 ### 9. can Map/Set allow duplicates ? What is logic to verify whether its a duplicate object ?
 ### 10. Why do we need to override both equals and hashcode methods ?
 ### 11. Difference between == and equals methods ?
-### 12. Advantages of creating String objects with literals ?
+### 12. Advantage String literals ?
 
 Lewwade44@gmail.com
 
